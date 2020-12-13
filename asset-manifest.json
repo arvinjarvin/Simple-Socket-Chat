@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Simple-Socket-Chat/static/css/main.03bd5347.chunk.css",
-    "main.js": "/Simple-Socket-Chat/static/js/main.a1417582.chunk.js",
-    "main.js.map": "/Simple-Socket-Chat/static/js/main.a1417582.chunk.js.map",
-    "runtime-main.js": "/Simple-Socket-Chat/static/js/runtime-main.529ae54c.js",
-    "runtime-main.js.map": "/Simple-Socket-Chat/static/js/runtime-main.529ae54c.js.map",
-    "static/js/2.2d1acda1.chunk.js": "/Simple-Socket-Chat/static/js/2.2d1acda1.chunk.js",
-    "static/js/2.2d1acda1.chunk.js.map": "/Simple-Socket-Chat/static/js/2.2d1acda1.chunk.js.map",
-    "static/js/3.bd3616f9.chunk.js": "/Simple-Socket-Chat/static/js/3.bd3616f9.chunk.js",
-    "static/js/3.bd3616f9.chunk.js.map": "/Simple-Socket-Chat/static/js/3.bd3616f9.chunk.js.map",
-    "index.html": "/Simple-Socket-Chat/index.html",
-    "static/css/main.03bd5347.chunk.css.map": "/Simple-Socket-Chat/static/css/main.03bd5347.chunk.css.map",
-    "static/js/2.2d1acda1.chunk.js.LICENSE.txt": "/Simple-Socket-Chat/static/js/2.2d1acda1.chunk.js.LICENSE.txt"
+    "main.css": "/simple-socket-chat/static/css/main.03bd5347.chunk.css",
+    "main.js": "/simple-socket-chat/static/js/main.a1417582.chunk.js",
+    "main.js.map": "/simple-socket-chat/static/js/main.a1417582.chunk.js.map",
+    "runtime-main.js": "/simple-socket-chat/static/js/runtime-main.dcfe1f56.js",
+    "runtime-main.js.map": "/simple-socket-chat/static/js/runtime-main.dcfe1f56.js.map",
+    "static/js/2.5e16619c.chunk.js": "/simple-socket-chat/static/js/2.5e16619c.chunk.js",
+    "static/js/2.5e16619c.chunk.js.map": "/simple-socket-chat/static/js/2.5e16619c.chunk.js.map",
+    "static/js/3.bd3616f9.chunk.js": "/simple-socket-chat/static/js/3.bd3616f9.chunk.js",
+    "static/js/3.bd3616f9.chunk.js.map": "/simple-socket-chat/static/js/3.bd3616f9.chunk.js.map",
+    "index.html": "/simple-socket-chat/index.html",
+    "static/css/main.03bd5347.chunk.css.map": "/simple-socket-chat/static/css/main.03bd5347.chunk.css.map",
+    "static/js/2.5e16619c.chunk.js.LICENSE.txt": "/simple-socket-chat/static/js/2.5e16619c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.529ae54c.js",
-    "static/js/2.2d1acda1.chunk.js",
+    "static/js/runtime-main.dcfe1f56.js",
+    "static/js/2.5e16619c.chunk.js",
     "static/css/main.03bd5347.chunk.css",
     "static/js/main.a1417582.chunk.js"
   ]
